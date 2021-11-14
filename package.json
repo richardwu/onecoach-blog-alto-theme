@@ -1,6 +1,6 @@
 {
-    "name": "alto",
-    "description": "A Ghost theme",
+    "name": "onecoach-alto",
+    "description": "A Ghost theme (forked from Alto)",
     "version": "1.0.0",
     "engines": {
         "ghost": ">=4.0.0",
